@@ -1,11 +1,16 @@
 ## Utilizare
 
 Se pornesc in aceasta ordine:
+
 Se porneste UserKM
+
 Se porneste UserA
+
 Se porneste UserB
 
 In userA se scrie de la tastatura ECB sau CFB
+
+In userB se scrie de la tastatura ECB sau CFB
 
 Din fisierul userA.txt se vor extrage informatiile si se vor afisa in terminalul lui B
 
